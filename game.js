@@ -95,6 +95,7 @@ class Player {
 //////////////
 
 var ctx = document.getElementById("canvas").getContext("2d");
+// Me, three years later: no style.css? lol
 document.body.style.background = "darkgray";
 
 /*function testDraw() { //For testing purposes only; draws the entire gameboard where each square takes up 10*10 pixels.
