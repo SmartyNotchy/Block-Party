@@ -130,7 +130,7 @@ function drawGameboard(x, y) {
   ctx.fillRect(725, 325, 50, 50);
   ctx.fillStyle = "white";
   ctx.fillRect(730, 330, 40, 40);
-  ctx.fillStyle = "lightgray";
+  ctx.fillStyle = "darkgray";
   ctx.fillRect(0, 0, 500, 700);
   ctx.fillRect(0, 0, 1500, 100);
   ctx.fillRect(0, 600, 1500, 100);
